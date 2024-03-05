@@ -1,0 +1,90 @@
+html{
+    font-family: "Kumbh Sans", sans-serif;
+}
+
+body{
+    background-color: #f4f7f0;
+}
+
+.cuadrogris{
+    margin: 70px;
+    padding: 1px 1px;
+    background-color: gainsboro;
+}
+
+.cuadroblanco{
+    margin: 50px;
+    background-color: white;
+    text-align: center;
+}
+
+img {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#imagenlogo {
+    width: 270px;
+    height: 90px;
+}
+
+#imagenhtml {
+    margin-top: 40px;
+    width: 100px;
+    height: 90px;
+}
+
+#imagenpython {
+    margin-top: 40px;
+    width: 100px;
+    height: 90px;
+}
+
+#imagenjavascript {
+    margin-top: 40px;
+    width: 100px;
+    height: 90px;
+}
+
+header{
+    background-color: white;
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+}
+
+.parrafos{
+    margin-top: 20px;
+    margin-bottom: 20pxs;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px 20px;
+    background-color: gainsboro;
+    border-radius: 50px;
+    text-align: left;
+}
+
+.botones1{
+    text-align: center;
+    padding: 30px 20px;
+}
+
+.my-button {
+    padding: 5px 40px;
+    background-color: gainsboro;
+    color: black;
+    font-family: "Kumbh Sans", sans-serif;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+  }
+  
+  .my-button:hover {
+    background-color: gainsboro;
+  }
+  
+  .my-button:active {
+    background-color: gray;
+}
